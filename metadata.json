@@ -1,0 +1,6 @@
+{
+  "name": "Campus Recruiter Intelligence",
+  "description": "Corporate recruiter discovery, research, verification, and relationship intelligence platform for Tier-1 MBA campus hiring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
